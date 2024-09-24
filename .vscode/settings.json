@@ -1,3 +1,4 @@
 {
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "colorWheel.settings.workspaceColor": "hsl(155,94%,64%)"
 }
